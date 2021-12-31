@@ -1,0 +1,126 @@
+@charset "iso-8859-1";
+/* 
+walkingdeadmaps Style Sheet 
+*/
+
+body			
+			{
+			background-color: #485544;
+			background-image: url("wdmbg.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+    		background-position: right top;
+   		background-attachment: fixed;
+			margin: 0px;
+			padding: 0px; 
+			font-family: Verdana, Arial, sans-serif;
+			font-size: 10px;
+			text-align: center;
+			}
+img
+			{
+    			max-width: 100%;
+			}
+
+#a1		
+			{
+			background-color: #000000;
+			border-width: 0px 0px;
+			border-style: solid;
+			border-color: #000; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+#b2	
+			{
+			background-color: #FFFFEF;
+			border-width: 1px 1px;
+			border-style: solid;
+			border-color: #C0C0C0; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+
+#c3		
+			{
+			background-color: #F7F3F7;
+			border-width: 1px 1px;
+			border-style: solid;
+			border-color: #C0C0C0; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+/* Headings definition */
+
+h1			
+			{
+  font-family: 'Signika', sans-serif;
+  font-size:250%;
+  font-style: normal;
+  font-weight: 300;
+  color: #FAFAD2;
+			}
+h2			
+			{
+  font-family: 'Signika', sans-serif;
+  font-size:400%;
+  font-style: normal;
+  font-weight: 300;
+  color: #FAFAD2;
+			}
+h3			
+			{
+  font-family: 'Open Sans', sans-serif;
+  font-size:125%;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.75em;
+  color: #FAFAD2;
+			}
+
+
+/* Paragraph definition */
+
+p, li		
+			{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.50em;
+  color: #FAFAD2;
+			}
+p			{
+			padding-left: 10px;
+			padding-right: 10px;
+			text-align: justify;
+			}
+			
+/* Link definition */
+
+a:link		
+			{
+			color: #FFFFFF; font-weight: none;
+			text-decoration: underline;
+			}
+
+a:visited	
+			{
+			color: #FFFFFF; font-weight: none;
+			text-decoration: underline;
+			}
+
+a:active	
+			{
+			color: #0000FF; font-weight: none;
+			}
+
+a:hover		
+			{
+			color: #FFFFFF; font-weight: none;
+			}
