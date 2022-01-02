@@ -60,29 +60,35 @@ img
 
 h1			
 			{
-  font-family: 'Signika', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size:250%;
   font-style: normal;
   font-weight: 300;
-  color: #FAFAD2;
+  color: #AA9B8F;
+  margin-bottom: 0.75em;
+  line-height: 120%;
+  text-shadow: 2px 2px 2px #c0c0c0;
 			}
 h2			
 			{
-  font-family: 'Signika', sans-serif;
-  font-size:400%;
+  font-family: 'Oswald', sans-serif;
+  font-size:300%;
   font-style: normal;
   font-weight: 300;
-  color: #FAFAD2;
+  color: #AA9B8F;
+  margin-bottom: 0.75em;
+  line-height: 120%;
 			}
 h3			
 			{
   font-family: 'Open Sans', sans-serif;
-  font-size:125%;
+  font-size:150%;
   font-style: normal;
   font-weight: 300;
-  line-height: 1.75em;
+  line-height: 1.50em;
   color: #FAFAD2;
 			}
+
 
 
 /* Paragraph definition */
